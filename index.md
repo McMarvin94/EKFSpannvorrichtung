@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" type="text/css" href='style.css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li class="Current">STARTSEITE</li>
+        <li><a href="Projekt.html">PROJEKT</a></li>
+        <li><a href="Team.html">TEAM</a></li>
+        <li><a href="Partner.html">PARTNER</a></li>
+      </ul>
+    </nav>
+    <header>
+      <div class="d_HeaderBild">
+        <h1>Entwicklung, Konstruktion und<wbr>
+        Fertigung einer Spannvorrichtung<wbr>
+        für Nullpunktspannsysteme</h1>
+        <img src="Pictures/Portfolio-Radschlussel1.png" alt="Portfolio-Radschlussel">
+      </div>
+    </header>
+    <div class="ticker">
+ 	  <p>
+	  <br>
+		<span style="font-size: 17pt; font-family: arial, sanf-serif; text-align: center; color: antiquewhite;">Projektpräsentation</span>
+		<!-----------SPACE UNSICHTBAR---------------------->
+	  </p>
+	  <br>
+	  <br>
+		<span style="font-size: 10pt; font-family: arial, sanf-serif;color: white; text-align: center; font-weight: bolder;">Termin:</span>
+	  <br>
+		<span style="font-size: 14pt; font-family: arial, sanf-serif; color: white; text-align: center;">20.01.2021</span>
+	  <br>	
+		<span style="font-size: 15pt; font-family: arial, sanf-serif; color: white; text-align: center;">09:00 Uhr</span>
+      	  <br>
+	  <br> 
+	  <br> 
+		<span style="font-size: 14pt; font-family: arial; sanf-serif; float:left; padding-left: 0px; color: white; font-weight: bold; text-align: center; float: none;">Veranstaltungsort:</span>
+	  <br> 
+	  <br> 
+	  <br>   
+	  	<span style="font-size: 11pt; font-family: arial; sanf-serif; float:left; padding-left: 0px; color: white; font-weight: none ; text-align: center; float: none;">Berufskolleg der Stadt<br>Bochum 
+		Technische<br>Berufliche Schule 1</span>
+          <br>
+          <br>
+	  <br>
+		<span style="font-size: 13pt; font-family: arial, sanf-serif; color: white; font-weight: bold; text-align: center;">Hauptgebäude<br>Raum 36</span>
+	  <br>
+	  <br>
+	  <br>
+		<span style="font-size: 13pt; font-family: arial, sanf-serif; color: white; font-weight: bold; text-align: center;">Aufgrund der Pandemielage nur für eingeladene Gäste!</span>
+    </div>
+    <main>
+      <div class="Hochziehen">
+        <div class="d_IndexArticle1">
+          <img src="Pictures/baugruppek11675.png" alt="baugruppek11675">
+          <article class="a_IndexArticle1">
+            Bei der Firma <b>ABC Umformtechnik GmbH & Co KG</b> in Gevelsberg werden unter
+            anderem Radschlüssel hergestellt als Diebstahlschutz von PKW-Felgen, die im Radverschraubungssystem ein
+            notwendiger Bestandteil sind.
+          </article>
+        </div>
+        <div class="d_IndexArticle2">
+          <img class="BilderAnders" src="Pictures/Bearbeitung-Spinner_CNC_Maschine.png" alt="Bearbeitung-Spinner_CNC_Maschine">
+          <article class="a_IndexArticle2">
+            <ul style="text-align: left; margin: 30px 0px 0 0;">
+              <li style="margin-bottom: 10px;">
+	        Die Bearbeitung der Radschlüssel erfolgt zurzeit in zwei Schritten:
+		<br>
+		<br>
+		1. Fräsen der Radschlüssel auf einer CNC-Fräsmaschine
+		<br>
+		<br>
+		2. Gravieren der Radschlüssel auf einer Graviermaschine
+		
+            </ul><br>
+          </article> <a href="#"></a>
+        </div>
+        <div class="d_IndexArticle1">
+          <article class="a_IndexArticle3">
+            Unser Ziel ist es, eine Spannvorrichtung zu entwickeln und zu konstruieren, sodass beide Arbeitsschritte zukünftig an <b>einer</b> Maschine durchgeführt werden. Unsere Lösung können sie „<a href="Projekt.html">HIER</a>“ nachlesen.
+          </article>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="">
+        <p>EKF-Spannvorrichtung</p>
+
+        <ul>
+            <li> <a href="Impressum.html">Impressum</a> </li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>
